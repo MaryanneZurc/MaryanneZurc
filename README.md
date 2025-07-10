@@ -70,8 +70,8 @@ Built with love and sunlight 🌞
 > Made with daisies and kindness by Mary Zurc
 >
 >---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MaryanneZurc&theme=sea&hide_border=false&background=fffaf0&ring=ffdf00&fire=ff8c00&currStreakLabel=ff69b4)](https://git.io/streak-stats)
+## Contribuições
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaryanneZurc&theme=calm-pink&hide_border=false&background=FFFAF0&ring=FFD700&fire=FFA500&currStreakLabel=BA55D3)](https://git.io/streak-stats)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=MaryanneZurc&color=FCE205&style=flat-square)
 
