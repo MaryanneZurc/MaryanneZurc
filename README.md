@@ -68,4 +68,16 @@ Built with love and sunlight 🌞
 
 > Feito com carinho e margaridas por Mary Zurc 💛  
 > Made with daisies and kindness by Mary Zurc
+>
+>---
+
+## 📈 Contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MaryanneZurc&theme=sea&hide_border=false&background=fffaf0&ring=ffdf00&fire=ff8c00&currStreakLabel=ff69b4)](https://git.io/streak-stats)
+
+![Visitantes](https://komarev.com/ghpvc/?username=MaryanneZurc&color=FCE205&style=flat-square)
+
+> 🌼🌊 Obrigada por visitar meu jardim de códigos! Volte sempre ☀️💛
+
+
 
