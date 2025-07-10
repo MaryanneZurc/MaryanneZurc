@@ -71,7 +71,7 @@ Built with love and sunlight 🌞
 >
 >---
 ## Contribuições
-![Ondas animadas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Ondas animadas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaryanneZurc&theme=calm-pink&hide_border=false&background=FFFAF0&ring=FFD700&fire=FFA500&currStreakLabel=BA55D3)](https://git.io/streak-stats)
 
